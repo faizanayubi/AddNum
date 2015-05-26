@@ -1,0 +1,7 @@
+ORG 00H
+START: 	MOV A, #04H
+		ADD A, #05H
+		MOV P0, A
+
+STOP: 	AJMP $
+		END
