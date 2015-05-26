@@ -1,5 +1,5 @@
 ## AddNum ##
-Assembly Language Program to add two numbers
+Assembly Language Program to add two numbers and result will available in Port-0
 ![Debug](https://github.com/faizanayubi/AddNum/blob/master/screenshots/debug.png?raw=true)
 
 ### Software Used ###
