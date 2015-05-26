@@ -1,3 +1,0 @@
-".\Objects\add.obj" 
-TO ".\Objects\AddNum" 
-PRINT(".\Listings\AddNum.m51")
