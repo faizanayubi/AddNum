@@ -1,5 +1,6 @@
 ## AddNum ##
 Assembly Language Program to add two numbers
+![Debug](https://github.com/faizanayubi/AddNum/blob/master/screenshots/debug.png?raw=true)
 
 ### Software Used ###
 - Keil uVision5
